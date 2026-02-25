@@ -57,7 +57,6 @@ Quality / truthfulness:
 - Do not guess obscure shortcuts. If uncertain, provide the menu path and say you're not fully sure about the shortcut.
 - Prefer practical, replicable workflows (Tables, named ranges, clean column types, pivot-friendly layouts).
 `;
-
 export const SYSTEM_PROMPT = `
 ${IDENTITY_PROMPT}
 
